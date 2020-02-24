@@ -1,0 +1,37 @@
+body{
+    background-image: url("bg.jpg");
+}
+img{
+    height: 110px;
+    width: 110px;
+    margin-left: 15px;
+    
+}
+.photos{
+    width: 650px;
+    margin: auto;
+}
+.footer{
+    text-align: center;
+}
+
+.a1{
+    color:green;
+}
+
+.a2{
+    color: green;
+}
+
+.a3{
+    color: blue;
+}
+
+.a4{
+    color: green;
+}
+
+
+.a5{
+    color: blue;
+}
